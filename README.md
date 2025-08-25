@@ -2,5 +2,5 @@
 
 ## 🚀 Sobre mi
 
-Desarrollador frontend autodidacta.
+Desarrollador frontend autodidacta. <br>
 Apasionado por JavaScript y React, disfruto creando aplicaciones y aprendiendo cada día para crecer como programador.
