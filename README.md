@@ -2,5 +2,7 @@
 
 ## 🚀 Sobre mi
 
-Desarrollador frontend autodidacta. <br>
-Apasionado por JavaScript y React, disfruto creando aplicaciones y aprendiendo cada día para crecer como programador.
+- 📍 Soy de Chiclana de la Frontera, Cádiz
+- 💡 Autodidacta, curioso y decidido a crecer como programador
+- 🧠 Aprendiendo cada día para convertirme en el mejor programador que pueda ser
+- ✨ Apasionado por la tecnología y la creatividad como forma de transformar ideas en realidad
