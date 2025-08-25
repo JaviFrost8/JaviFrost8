@@ -18,7 +18,7 @@
 ![Redux](https://img.shields.io/badge/Redux-Toolkit-purple?style=flat&logo=redux&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3.3.0-sky?style=flat&logo=tailwind-css&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-black?style=flat&logo=vercel&logoColor=white)
+
 
 ## ☎️ Contáctame
 
