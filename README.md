@@ -16,9 +16,9 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?style=flat&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-18.2.0-blue?style=flat&logo=react&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-Toolkit-purple?style=flat&logo=redux&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3.3.0-sky?style=flat&logo=tailwind-css&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=white)
 
 
 ## ☎️ Contáctame
